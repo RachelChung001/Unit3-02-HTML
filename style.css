@@ -1,0 +1,23 @@
+#myHeader {
+  text-align: center;
+  color: red;
+  font-family: 'arial', Times, serif;
+  border-style:dashed;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 80px;
+}
+#t01 {
+  text-align: center;
+  color:chocolate;
+  font-family: 'arial', Times, serif;
+  border-style:double;
+}
+#bunny {
+  color:aqua;
+  font-family: 'arial', Times, serif;
+  border-style: dotted;
+  height: 170px;
+  width: 250px;
+}
